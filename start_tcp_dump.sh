@@ -1,7 +1,7 @@
 #!/bin/sh
 # script for tcpdump
-# by Massimo 23/12/2016
-# version 1.0
+# by Massimo 22/03/2017
+# version 1.1
 
 #variables
 PORTPAR=$2
