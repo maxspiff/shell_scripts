@@ -1,2 +1,2 @@
 # shell_scripts
-Linux shell scripts
+Linux shell scripts for sysadmin
